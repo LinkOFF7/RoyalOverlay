@@ -7,6 +7,6 @@ Use Win64 dinput8.dll from [Ultimate-ASI-Loader ](https://github.com/ThirteenAG/
 
 ## Features
 
-- Loading Game Events - [Event List](https://amicitia.miraheze.org/wiki/Persona_5_Royal/dataR.cpk/event)
-- Select any Calendar Day - [Day List](https://megamitensei.fandom.com/wiki/Calendar/Persona_5)
-- Push Chat Event to Joker's Phone - (IDs range: 1-1319)
+- Loading game events - [Event List](https://amicitia.miraheze.org/wiki/Persona_5_Royal/dataR.cpk/event)
+- Selecting any game day - [Day List](https://megamitensei.fandom.com/wiki/Calendar/Persona_5)
+- Pushing chat event to Joker's phone - (ID range: 1-1319)
