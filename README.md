@@ -6,3 +6,4 @@ Use dinput8.dll from [Ultimate-ASI-Loader ](https://github.com/ThirteenAG/Ultima
 
 
 • Event List - https://amicitia.miraheze.org/wiki/Persona_5_Royal/dataR.cpk/event
+• Day List -  https://megamitensei.fandom.com/wiki/Calendar/Persona_5
